@@ -1,0 +1,3 @@
+Convolution_without_pipeline_dic290:clk period = 1.5 ns (minimum clk period)
+Convolution_with_pipeline_dic290:clk period = 0.9 ns (minimum clk period)
+Convolution_optimize_dic290:clk period = 0.548 ns (minimum clk period)
