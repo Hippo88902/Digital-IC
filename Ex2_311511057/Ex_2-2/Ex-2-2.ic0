@@ -1,0 +1,64 @@
+* "simulator" "HSPICE" 
+* "version" "Q-2020.03-SP2-2 linux64"
+* "format" "HSP"
+* "rundate" "22:49:47 10/30/2023 "
+* "netlist" "Ex-2-2.sp "
+* "runtitle" ".title 1-bit fa"
+* time =    0.            
+* temperature =   27.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ a =   0.            
++ a_1 =  41.6562u       
++ b =   0.            
++ b_1 =  27.4526u       
++ c_1 =  41.8776u       
++ c_in =   0.            
++ c_out =  72.9157u       
++ c_outb =   1.9432        
++ s =  74.1057u       
++ sb =   1.9326        
++ vdd =   2.0000        
++ x_buf1.in_b =   2.0000        
++ x_buf2.in_b =   2.0000        
++ x_buf3.in_b =   2.0000        
++ x_adder.w1 =  66.2587u       
++ x_adder.w1b =   1.9326        
++ x_adder.w2 =  36.4384u       
++ x_adder.w2b =   1.9432        
++ x_adder.w3 =  65.2903u       
++ x_adder.w3b =   1.9432        
++ x_buf1.x_inv1.x =   1.9722        
++ x_buf1.x_inv2.x =  29.1366m       
++ x_buf2.x_inv1.x =   1.9722        
++ x_buf2.x_inv2.x =  29.1224m       
++ x_buf3.x_inv1.x =   1.9722        
++ x_buf3.x_inv2.x =  29.1368m       
++ x_adder.x_xor1.a_bar =   2.0000        
++ x_adder.x_xor1.b_bar =   2.0000        
++ x_adder.x_xor1.x =   1.9556        
++ x_adder.x_xor2.a_bar =   2.0000        
++ x_adder.x_xor2.b_bar =   2.0000        
++ x_adder.x_xor2.x =   1.9556        
++ x_adder.x_and1.ab =   2.0000        
++ x_adder.x_and1.bb =   2.0000        
++ x_adder.x_and1.x =   1.9556        
++ x_adder.x_and2.ab =   2.0000        
++ x_adder.x_and2.bb =   2.0000        
++ x_adder.x_and2.x =   1.9556        
++ x_adder.x_or1.ab =   2.0000        
++ x_adder.x_or1.bb =   2.0000        
++ x_adder.x_or1.x =   1.9556        
++ x_adder.x_xor1.x_inv1.x =   1.9722        
++ x_adder.x_xor1.x_inv2.x =   1.9722        
++ x_adder.x_xor2.x_inv1.x =   1.9722        
++ x_adder.x_xor2.x_inv2.x =   1.9722        
++ x_adder.x_and1.x_inv1.x =   1.9722        
++ x_adder.x_and1.x_inv2.x =   1.9722        
++ x_adder.x_and2.x_inv1.x =   1.9722        
++ x_adder.x_and2.x_inv2.x =   1.9722        
++ x_adder.x_or1.x_inv1.x =   1.9722        
++ x_adder.x_or1.x_inv2.x =   1.9722        
+***   END: Saved Operating Point ***                     
