@@ -1,0 +1,35 @@
+* "simulator" "HSPICE" 
+* "version" "Q-2020.03-SP2-2 linux64"
+* "format" "HSP"
+* "rundate" "23:27:32 10/30/2023 "
+* "netlist" "Ex_2-4.sp "
+* "runtitle" ".title 4-bit adder"
+* time =    0.            
+* temperature =   27.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ a0 = 140.2518n       
++ a1 = 153.5191n       
++ a2 = 140.7037n       
++ a3 = 145.4357n       
++ a[0] =   0.            
++ a[1] =   0.            
++ a[2] =   0.            
++ a[3] =   0.            
++ b0 = 146.9235n       
++ b1 = 153.5191n       
++ b2 = 142.9276n       
++ b3 = 146.8084n       
++ b[0] =   0.            
++ b[1] =   0.            
++ b[2] =   0.            
++ b[3] =   0.            
++ c_out = 148.1550n       
++ s0 = 282.8020n       
++ s1 = 611.4241n       
++ s2 =   1.3302u       
++ s3 = 584.2958n       
++ vdd = 700.0000m       
+***   END: Saved Operating Point ***                     

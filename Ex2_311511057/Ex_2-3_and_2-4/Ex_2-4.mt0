@@ -1,0 +1,4 @@
+$DATA1 SOURCE='HSPICE' VERSION='Q-2020.03-SP2-2 linux64' PARAM_COUNT=0
+.TITLE '.title 4-bit adder'
+ pwr              c_worst          temper           alter#          
+  1.421e-05        1.630e-10         27.0000        1               
