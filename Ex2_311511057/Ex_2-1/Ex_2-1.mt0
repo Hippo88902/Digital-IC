@@ -1,0 +1,6 @@
+$DATA1 SOURCE='HSPICE' VERSION='Q-2020.03-SP2-2 linux64' PARAM_COUNT=0
+.TITLE '.title 1-bit fa'
+ pwr              s_worst          c_worst          s_norm          
+ c_norm           temper           alter#          
+  1.121e-05        3.703e-11        2.858e-11        3.616e-11      
+  2.296e-11         27.0000        1               

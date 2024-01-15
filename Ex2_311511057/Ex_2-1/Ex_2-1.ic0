@@ -1,0 +1,23 @@
+* "simulator" "HSPICE" 
+* "version" "Q-2020.03-SP2-2 linux64"
+* "format" "HSP"
+* "rundate" "20:56:16 10/30/2023 "
+* "netlist" "Ex_2-1.sp "
+* "runtitle" ".title 1-bit fa"
+* time =    0.            
+* temperature =   27.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ a =   0.            
++ a_1 = 153.8537n       
++ b =   0.            
++ b_1 = 155.7630n       
++ c_1 = 152.6401n       
++ c_in =   0.            
++ c_out = 157.0474n       
++ s = 157.0507n       
++ vdd = 800.0000m       
++ x_adder.wire = 158.5049n       
+***   END: Saved Operating Point ***                     

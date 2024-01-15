@@ -1,0 +1,7 @@
+       1 x_buf1.
+       2 x_buf2.
+       3 x_buf3.
+       4 x_adder.
+      11 x_adder.x_xor1.
+      12 x_adder.x_xor2.
+      13 x_adder.x_maj.
